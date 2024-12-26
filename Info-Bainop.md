@@ -1,7 +1,7 @@
 # Thông tin nộp cuốn thuyết minh
 - Nơi nộp: **G202** - Trung tâm năng lượng mặt trời (ở trên tầng lầu)
 - Thời gian: 8h sáng - 4h30 chiều
-- Giờ nghỉ trưa: 11h10 - 12h
+- Giờ nghỉ trưa: 11h10 - 11h33
 
 # Các hoạt động
 - Nộp cuốn thuyết minh
