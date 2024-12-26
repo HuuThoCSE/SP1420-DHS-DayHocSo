@@ -11,4 +11,4 @@
 - in 2 mặt, ko cần đóng bìa cứng gì nhé, chứ in bìa trắng đóng lại bình thường, in trắng đen
 
 # Nội dung cuốn thuyết minh phải có
-- Phần "Kịch bản sư phạm" có GIỚI THIỆU MÔN HỌC
+- Chương 2 "KỊCH BẢN SƯ PHẠM", phần "2.1. Giới thiệu môn học", phải có nội dung.
