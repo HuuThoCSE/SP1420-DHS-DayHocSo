@@ -11,5 +11,5 @@
 - in 2 mặt, ko cần đóng bìa cứng gì nhé, chứ in bìa trắng đóng lại bình thường, in trắng đen
 
 # Nội dung cuốn thuyết minh phải có
-- Chương 2 "KỊCH BẢN SƯ PHẠM", phần "2.1. Giới thiệu môn học", phải có nội dung.
+- Chương 2 "KỊCH BẢN SƯ PHẠM", phần "2.1. Giới thiệu môn học", **PHẢI CÓ NỘI DUNG**.
     + Phần nôi dung là môn học mà mình chọn làm bài giảng storyline không phải môn Dạy học số
