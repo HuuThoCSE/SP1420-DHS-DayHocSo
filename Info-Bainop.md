@@ -1,6 +1,7 @@
 # Thông tin nộp cuốn thuyết minh
 - Nơi nộp: **G202** - Trung tâm năng lượng mặt trời (ở trên tầng lầu)
 - Thời gian: 8h sáng - 4h30 chiều
+- Giờ nghỉ trưa: 11h10 - 12h
 
 # Các hoạt động
 - Nộp cuốn thuyết minh
@@ -16,4 +17,3 @@
         + Phần nôi dung là môn học mà mình chọn làm bài giảng storyline không phải môn Dạy học số
     + Phần "2.2. Kịch bản sư phạm khi ứng dụng phần mềm vào môn học"
         + Chỉ để bản, không cần ghi và không cần chỉnh sửa nội dung.
-
