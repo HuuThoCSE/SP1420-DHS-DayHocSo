@@ -117,7 +117,7 @@ Tôn trọng các thiết bị và duy trì thói quen bảo quản tốt khi s�
 Trước khi vào bài, chúng ta sẽ cùng tìm hiểu về mục tiêu bài học mà chúng ta cần đạt được sau khi học xong bài học này
 ```
 
-Về mục tiêu kiến thức, người học. Trình bày được các khái niệm cơ bản về IoT. Thứ 2, Tóm tắt được chức năng cơ bản của các thiết bị trong IoT.
+Về mục tiêu kiến thức, người học. Trình bày được chức năng cơ bản của các thiết bị IoT. Thứ 2, Tóm tắt được chức ứng dụng của các thiết bị trong IoT.
 
 Về mục tiêu kỹ năng, người học. Lặp lại được các khái niệm cơ bản về IoT. Thứ 2, Trình bày được các chức năng của các thiết bị trong IoT.
 
